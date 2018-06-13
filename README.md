@@ -10,7 +10,7 @@ Votre mission si vous l'acceptez  est de créer un quiz, vous pouvez vous inspir
 + vous devrez faire le HTML & le CSS
 + ainsi que le JS
 + vous devrez manipuler les éléments du DOM. 
-+ vous pourrez utiliser un framwork  __*bootstrap*__ ou __*autre*__
++ vous pourrez utiliser un framework  __*bootstrap*__ ou __*autre*__
 
 ##  Règles:
 + vous devez créer un fichier **JSON** valide 
