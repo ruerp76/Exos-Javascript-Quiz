@@ -1,0 +1,119 @@
+
+body{
+  height: 1000px;
+  background-color: black;
+  margin: 0;
+
+}
+
+/* HEADER */
+header{
+  height: 147px;
+  background-color: #000450;
+  display: flex;
+  font-family: "Comic Sans MS", cursive;
+  font-weight: lighter;
+  color: white;
+}
+
+#myVideo {
+   width: 20%;
+ }
+
+h1{
+margin: auto;
+font-family: "Comic Sans MS", cursive;
+font-weight: lighter;
+color: white;
+text-shadow: 1px 1px 3px black;
+}
+
+/* FIN DU HEADER */
+
+/* CONTAINER VIDEO 1 */
+
+.container{
+  width: 80%;
+  height: auto;
+  margin: auto;
+  margin-top: 30px;
+  display: flex;
+}
+
+.q1{
+  margin: auto;
+  width: 54%;
+}
+
+h2{
+margin: auto;
+margin-bottom: 20px;
+text-align: center;
+font-family: "Comic Sans MS", cursive;
+font-weight: lighter;
+color: white;
+}
+
+.video1{
+  width: 100%;
+  margin: auto;
+}
+
+/* BOX NAVIGATION */
+
+.box_nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+a:hover{
+  color: white;
+  transition: 1s;
+  text-shadow: 1px 1px 1px grey;
+}
+
+i{
+  font-size: 1.5em;
+}
+
+/* FIN CONTAINER VIDEO 1 */
+
+/* CREATION PARAGRAPHE "Question" VIA JS */
+
+.para1{
+  text-align: center;
+}
+
+/* DIV BOUTONS REPONSES */
+
+.box_reponse{
+  justify-content: center;
+}
+
+/* STYLE BOUTONS REPONSES */
+
+ input{
+   margin: 5px;
+   color: white;
+   /* animation: 1s infinite; */
+}
+
+ input:hover{
+   color: blue;
+   transition: 1s;
+ }
+
+ #bouton0, #bouton1, #bouton2, #bouton3{
+   width: 340px;
+   padding: 10px;
+   background-color: #070707;
+   border-radius: 10px;
+   cursor: pointer;
+ }
+
+ /* FOOTER */
+
+ footer{
+   background-color: grey;
+ }

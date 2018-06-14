@@ -1,0 +1,45 @@
+
+{
+  "quiz":{
+  "q1": {
+    "question":"Lorsqu'un pancake tombe dans la neige avant le 31 décembre, on dit qu'il est",
+    "option":[
+    "Tombé dans la neige avant le 31 décembre ",
+    "Un frizby comestible ",
+    "Une kipa surgelée ",
+    "La réponse D"
+  ],
+  "reponse":"Une kipa surgelée "
+ },
+  "q2": {
+    "question":"Lorsqu'un pancake prend l'avion à destination de Toronto et qu'il fait une escale technique à St Claude, on dit:",
+    "option":[
+       "Qu'il n'est pas arrivé à Torronto",
+       "Qu'il était supposé arriver à Torronto",
+       "Qu'est-ce qu'il fout ce maudit pancake, tabernacle?",
+       "La réponse D"
+   ],
+   "réponse":"Qu'est-ce qu'il fout ce maudit pancake, tabernacle"
+ },
+  "q3": {
+    "question":"Lorsqu'on invite un pancake à une Barmitzva, les convives doivent:",
+    "option":[
+           "L'inciter à boire à l'Open Barmitzva",
+           "Lui présenter Raymond Barmitzva",
+           "Lui offrir des malabarmitzva",
+           "La réponse D"
+    ],
+    "réponse":"L'inciter à boire à l'Open Barmitzva"
+  },
+  "q4": {
+    "question":"Au cours de quel évènement historique fut créé le pancake?",
+    "option":[
+         "En 1618, pendant la guerre des croissants au beurre",
+         "En 1702, pendant le massacre du saint panini",
+         "En 112, avant Céline Dion pendant la prise de la brioche",
+         "La réponse D"
+      ],
+      "réponse":"La réponse D"
+  }
+ }
+}
